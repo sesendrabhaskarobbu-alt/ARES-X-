@@ -1,0 +1,66 @@
+ARES-X – Interactive Mars Surface Simulation
+
+Main Product
+
+The Interactive Mars Surface Simulation is the central product of ARES-X. It helps users explore Martian terrain, examine scientific data and investigate potential astronaut exploration routes.
+
+Demonstration Location
+
+Jezero Crater, Mars.
+
+Demonstration Sequence
+
+1. Interactive Mars Explorer
+
+- Open the interactive Mars model.
+- Rotate, zoom and explore the Martian surface.
+- Select Jezero Crater.
+
+2. Scientific Data Layers
+
+Demonstrate the six data categories presented in our project:
+
+- Optical
+- Thermal
+- Spectral
+- Topographic
+- Radiation
+- Geological
+
+3. Terrain Analysis
+
+- Explore elevation information.
+- Examine terrain and slope.
+- Identify potential surface hazards.
+
+4. Route Planning
+
+- Select a scientific exploration objective.
+- Compare two hypothetical routes.
+- Review terrain and potential exposure risks.
+
+5. Supporting Systems
+
+- Scientific Research
+- Mission Dashboard
+- MARIO AI Assistant
+- Research Report Generator
+
+Project Objective
+
+Bring planetary exploration data into one interactive environment to support research, mission planning and astronaut safety.
+
+Data Sources
+
+- NASA / JPL Mars Trek
+- USGS–NASA Planetary Geologic Mapping Program
+- NASA Mars Perseverance Raw Images Gallery
+- NASA Worldview
+
+Scientific Integrity
+
+Distinguish operational features from proposed features, illustrative graphics and simulations. Clearly identify the source and limitations of every dataset and calculation.
+
+Team
+
+AETHRIX VANGUARDS
